@@ -1,0 +1,31 @@
+body {
+  font-size: large;
+  padding: 0 10%;
+  background-color: #e6e6e6;
+
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-size: 300%;
+  font-family: impact, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+h3 {
+  color: red;
+}
+
+li {
+  line-height: 25px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
