@@ -6,19 +6,8 @@ body {
 }
 
 h1 {
-  text-align: center;
-  color: red;
   font-size: 300%;
   font-family: impact, sans-serif;
-}
-
-h2 {
-  text-align: center;
-  color: red;
-}
-
-h3 {
-  color: red;
 }
 
 li {
@@ -28,4 +17,16 @@ li {
 img {
   display: block;
   margin: 0 auto;
+}
+
+.red {
+  color: red;
+}
+
+.center {
+  text-align: center;
+}
+
+.shadow {
+  text-shadow: 0 0 50px black;
 }
